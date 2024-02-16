@@ -1,6 +1,6 @@
 #!/bin/bash
 # Install script for BruteX
-#
+#./install.sh
 # VARS
 COLOR1='\033[91m'
 COLOR2='\033[92m'
